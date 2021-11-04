@@ -6,7 +6,7 @@ I am a student at Eskişehir Osmangazi University and my department is computer 
   
 I currently learning MSSQL and Java
 
-📧 How to reach me bckmelih@gmail.com
+📧: bckmelih@gmail.com
 
 <!---
 melihbucak/melihbucak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
