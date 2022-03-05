@@ -4,7 +4,7 @@ I am a student at Eskişehir Osmangazi University and my department is computer 
 
 💻Skills: C, C++, C#
   
-I currently learning MSSQL and Java
+I currently learning Java and Angular
 
 📧: bckmelih@gmail.com
 
