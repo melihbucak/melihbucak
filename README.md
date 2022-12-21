@@ -2,9 +2,8 @@
 
 I am a student at Eskişehir Osmangazi University and my department is computer engineering
 
-💻Skills: C, C++, C#
+💻Skills: C, C++, C#, html, css, JavaScript, react, sql
   
-I currently learning Java and Angular
 
 📧: bckmelih@gmail.com
 
